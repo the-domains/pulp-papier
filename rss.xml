@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Pulp-Papier]]></title>
         <description><![CDATA[Pulp-Papier]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/pulp-papier/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jan 2016 18:20:24 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 22 Jan 2016 18:29:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/pulp-papier/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/e9a547d8-160b-4172-9c96-684dd13c1273.png">]]></description>
-            <link>undefinede94ed99f-1dda-429e-b634-1a48ea2829f9/index.html</link>
+            <link>https://thegrid.ai/pulp-papier/e94ed99f-1dda-429e-b634-1a48ea2829f9/index.html</link>
             <guid isPermaLink="false">e94ed99f-1dda-429e-b634-1a48ea2829f9</guid>
-            <pubDate>Fri, 22 Jan 2016 18:20:17 GMT</pubDate>
+            <pubDate>Fri, 22 Jan 2016 18:28:52 GMT</pubDate>
         </item>
     </channel>
 </rss>
